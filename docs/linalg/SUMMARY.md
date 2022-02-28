@@ -8,7 +8,7 @@
 +   [第七讲：求解$Ax=0$，主变量，特解](chapter07.md)
 +   [第八讲：求解$Ax=b$：可解性和解的结构](chapter08.md)
 +   [第九讲：线性相关性、基、维数](chapter09.md)
-+   [第十讲 四个基本子空间](chapter10.md)
++   [第十讲 四个基本子空间](chapter10.md)uo8o
 +   [第十一讲：矩阵空间、秩1矩阵和小世界图](chapter11.md)
 +   [第十二讲：图和网络](chapter12.md)
 +   [第十三讲：复习一](chapter13.md)
